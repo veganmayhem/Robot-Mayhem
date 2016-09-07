@@ -6,3 +6,4 @@ Everyone will checkout this file, and then add their name to the bottom of the l
 
 1) Brad
 2)Benjamin
+3) Kristian
