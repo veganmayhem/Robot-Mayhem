@@ -1,0 +1,7 @@
+This is our first file.
+
+We are going to edit it collaboratively using github.
+
+Everyone will checkout this file, and then add their name to the bottom of the list.
+
+1) Brad
